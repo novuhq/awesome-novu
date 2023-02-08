@@ -74,7 +74,7 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 
 ## How can I thank you?
 
-Why not star the Github repo? I'd love the attention! Why not share the link for this repository on Twitter or HackerNews? Spread the word!
+Why not share the link for this repository on Twitter or HackerNews? Spread the word! :)
 
 ---
 
