@@ -69,17 +69,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Contributing
 
-Found an awesome blog, video, talk, tutorial etc about Novu that's not on this list?. Feel free to send a PR.
-
-### Guidelines
-
-* Please make an individual pull request for each suggestion
-* Make sure what you are adding is not already on the list
-* Use the following format: `* [Name](Link)`
-* Add it to the bottom of the section, not top or middle
-* Check your spelling and grammar
-* Make sure there is no trailing whitespace
-* Last, make sure it is awesome!
+Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 
 ## How can I thank you?
