@@ -30,6 +30,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Novu Dev.to](https://dev.to/novu)
 - [Novu TV](https://www.youtube.com/@novuhq/videos)
 - [Novu Notification Center](https://docs.novu.co/notification-center/getting-started)
+- [Notifications Generator](https://notifications.directory/)
 
 ## SDKs & Components
 
