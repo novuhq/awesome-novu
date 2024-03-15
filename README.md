@@ -30,6 +30,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Novu Dev.to](https://dev.to/novu)
 - [Novu TV](https://www.youtube.com/@novuhq/videos)
 - [Novu Notification Center](https://docs.novu.co/notification-center/getting-started)
+- [Notifications Generator](https://notifications.directory/)
 
 ## SDKs & Components
 
@@ -65,7 +66,9 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Novu Features: Topics](https://www.youtube.com/watch?v=RNCgyMQ9Nt4&t=92s&ab_channel=Novu-TheFirstNotificationInfrastructure)
 - [Novu Features: Avatars and Actors](https://www.youtube.com/watch?v=pFk65ia17-U&ab_channel=Novu-TheFirstNotificationInfrastructure)
 
+## User Stories
 
+- [Argonaut: Notifying Devs of Pod/Pipeline Failures so they can Fix Errors Quickly ](https://www.argonaut.dev/blog/notifications-architecture)
 
 ## Contributing
 
